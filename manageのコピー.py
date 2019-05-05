@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+
 import oss
 
 if __name__ == "__main__":
